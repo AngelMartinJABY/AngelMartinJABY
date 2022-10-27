@@ -56,4 +56,8 @@
 
 ## Contacto
 <!-- Green: 317F43 // Red: C51D34 -->
+![MAIL](https://img.shields.io/badge/MAIL-MAIL@MAIL.COM-000000?style=for-the-badge)
+![RRSS](https://img.shields.io/badge/RRSS-@RRSS-000000?style=for-the-badge)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 Puedes contactarme por correo para proponerme trabajos siempre y cuando esté disponible para nuevos proyectos.
