@@ -6,6 +6,12 @@
 - Sé hablar con fluidez 3 idiomas.
 - https://www.web.com
 
+![Traducción](https://custom-icon-badges.demolab.com/badge/Traducción-000000?style=for-the-badge&logo=translate&logoColor=ffffff)
+![Aprendidos](https://custom-icon-badges.demolab.com/badge/Aprendidos-000000?style=for-the-badge&logo=check&logoColor=ffffff)
+![Aprendiendo](https://custom-icon-badges.demolab.com/badge/Aprendiendo-000000?style=for-the-badge&logo=book&logoColor=ffffff)
+![No](https://custom-icon-badges.demolab.com/badge/No-000000?style=for-the-badge&logo=x&logoColor=ffffff)
+![Idioma](https://custom-icon-badges.demolab.com/badge/Idioma-000000?style=for-the-badge&logo=globe&logoColor=ffffff)
+
 ## Skills
 ### Programación
 #### Lenguajes
