@@ -1,4 +1,4 @@
-# Hey, soy Ángel
+# Hola, soy Ángel
 # [![Español](https://img.shields.io/badge/Original-ES-000000?style=for-the-badge)](/README.md) [![English](https://img.shields.io/badge/Translation-EN-000000?style=for-the-badge)](/README-EN.md) [![Français](https://img.shields.io/badge/Traduction-FR-000000?style=for-the-badge)](/README-FR.md)
 ## Información
 - Soy un programador amateur con experiencia en multiples lenguajes.
@@ -6,7 +6,7 @@
 - Sé hablar con fluidez 3 idiomas.
 - https://www.web.com
 
-## Experiencia
+## Skills
 ### Programación
 #### Lenguajes
 ![APRENDIDOS](https://img.shields.io/badge/APRENDIDOS-000000?style=for-the-badge)
@@ -50,5 +50,10 @@
 
 ![APRENDIENDO](https://img.shields.io/badge/APRENDIENDO-000000?style=for-the-badge)
 ![ITALIANO](https://img.shields.io/badge/ITALIANO-APRENDIENDO-008C45?style=for-the-badge)
+
+## Proyectos
+### Aquí se añadirán mis proyectos terminados y en proceso.
+
 ## Contacto
-Puedes contactarme por correo para proponerme trabajos siempre y cuando este disponible para nuevos proyectos.
+<!-- Green: 317F43 // Red: C51D34 -->
+Puedes contactarme por correo para proponerme trabajos siempre y cuando esté disponible para nuevos proyectos.
