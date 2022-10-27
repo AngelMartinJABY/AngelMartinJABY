@@ -10,35 +10,35 @@
 ### Programación
 #### Lenguajes
 ![APRENDIDOS](https://img.shields.io/badge/APRENDIDOS-000000?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-8/10-E34C26?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-7/10-264DE4?style=for-the-badge)
-![JS](https://img.shields.io/badge/JS-7/10-f0DB4F?style=for-the-badge)
-![NODEJS](https://img.shields.io/badge/NODEJS-7/10-68A063?style=for-the-badge)
-![MARKDOWN](https://img.shields.io/badge/MARKDOWN-6/10-000000?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-8/10-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-7/10-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-7/10-%23F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=%23F0DB4F)
+![NodeJS](https://img.shields.io/badge/Node.js-7/10-6DA55F?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Markdown](https://img.shields.io/badge/Markdown-6/10-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=000000)
 
 ![APRENDIENDO](https://img.shields.io/badge/APRENDIENDO-000000?style=for-the-badge)
-![PY](https://img.shields.io/badge/PYTHON-APRENDIENDO-4B8BBE?style=for-the-badge)
-![POWERSHELL](https://img.shields.io/badge/POWERSHELL-APRENDIENDO-2570C1?style=for-the-badge)
-![BASH](https://img.shields.io/badge/BASH-APRENDIENDO-3E4749?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Aprendiendo-4B8BBE?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![PowerShell](https://img.shields.io/badge/PowerShell-Aprendiendo-%232570C1.svg?style=for-the-badge&logo=powershell&logoColor=2570C1)
+![Bash](https://img.shields.io/badge/Bash-Aprendiendo-%233E4749.svg?style=for-the-badge&logo=gnu-bash&logoColor=3E4749)
 #### Librerías
 ![APRENDIDAS](https://img.shields.io/badge/APRENDIDOS-000000?style=for-the-badge)
 ![DISCORD.JS](https://img.shields.io/badge/DISCORD.JS-9/10-5865F2?style=for-the-badge)
 ![KABOOM.JS](https://img.shields.io/badge/KABOOM.JS-8/10-red?style=for-the-badge)
-![SOCKET.IO](https://img.shields.io/badge/SOCKET.IO-7/10-000000?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-7/10-000000?style=for-the-badge&logo=socket.io&badgeColor=000000)
 
 ![APRENDIENDO](https://img.shields.io/badge/APRENDIENDO-000000?style=for-the-badge)
 ![NO](https://img.shields.io/badge/NINGUNA,%20DE%20MOMENTO-000000?style=for-the-badge)
 ### Aplicaciones
 ![PROGRAMACIÓN](https://img.shields.io/badge/PROGRAMACIÓN-000000?style=for-the-badge)
-![VSCODE](https://img.shields.io/badge/VSCODE-8/10-0078D7?style=for-the-badge)
-![UNITY](https://img.shields.io/badge/UNITY-5/10-222C37?style=for-the-badge)
-![REPLIT](https://img.shields.io/badge/REPLIT-9/10-B9B9B9?style=for-the-badge)
-![GITHUB](https://img.shields.io/badge/GITHUB-7/10-333?style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-8/10-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7)
+![Unity](https://img.shields.io/badge/Unity-5/10-%23222C37.svg?style=for-the-badge&logo=unity&logoColor=222C37)
+![Replit](https://img.shields.io/badge/Replit-9/10-B9B9B9?style=for-the-badge&logo=Replit&logoColor=B9B9B9)
+![Github](https://img.shields.io/badge/Github-7/10-333?style=for-the-badge&logo=Github&logoColor=333)
 
 ![DISEÑO%20GRÁFICO](https://img.shields.io/badge/DISEÑO%20GRÁFICO-000000?style=for-the-badge)
-![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-7/10-8BC3FC?style=for-the-badge)
-![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-6/10-FBBB4D?style=for-the-badge)
-![CANVA](https://img.shields.io/badge/CANVA-8/10-2A89DA?style=for-the-badge)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-7/10-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-6/10-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00)
+![Canva](https://img.shields.io/badge/Canva-8/10-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=00C4CC)
 
 ![OTRAS](https://img.shields.io/badge/OTRAS-000000?style=for-the-badge)
 ![NO](https://img.shields.io/badge/NINGUNA,%20DE%20MOMENTO-000000?style=for-the-badge)
@@ -56,8 +56,10 @@
 
 ## Contacto
 <!-- Green: 317F43 // Red: C51D34 -->
-![MAIL](https://img.shields.io/badge/MAIL-MAIL@MAIL.COM-000000?style=for-the-badge)
-![RRSS](https://img.shields.io/badge/RRSS-@RRSS-000000?style=for-the-badge)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Puedes contactarme por correo para proponerme trabajos siempre y cuando esté disponible para nuevos proyectos.
